@@ -1,0 +1,1 @@
+This is a simple web application of Tic-Tac-Toe utilizing React.JS. Here I use HTML, CSS, JSON, and JavaScript.
